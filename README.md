@@ -15,3 +15,7 @@ _____________
 
 
 Для распознавания фигур использовался фреймворк YOLOv5, код робота писался не полностью, а лишь модифицировался мной и добавлялись модули для игры
+________
+Если ошибка OSError: cannot load library 'libcairo.so.2': error 0x7e.  Additionally, ctypes.util.find_library() did not manage to locate a 
+library called 'libcairo.so.2'
+https://doc.courtbouillon.org/weasyprint/stable/first_steps.html#windows
